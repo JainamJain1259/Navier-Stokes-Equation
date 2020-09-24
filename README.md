@@ -6,4 +6,13 @@ By employing ﬁnite volume method, discretize the Navier-Stokes equations to so
 u− along Y Y and v− along XX should be presented in your report. Lines XX and Y Y are illustrated in ﬁgure 1. Reference values are given in Tables 1 and 2 of the reference paper. Use 64 × 64 grid to discretize the domain.
 ![Screenshot (7)](https://user-images.githubusercontent.com/69717816/94141060-d1ad6d80-fe89-11ea-8d8f-2731f003489e.png)
 
+These are optional tasks but fetch you additional points:
+- Use firrst order upwind for convective terms, and demonstrate the effect of artificial diffusion.
+- Demonstrate that at a suﬃciently large P e number central diﬀerencing scheme results in unphys-ical oscillations, while upwind scheme provides a smooth solution.
+- Implement SOR to solve the linear system of equations, and demonstrate the computational speedup for Reynolds number = 100 for relaxation factor ω ∈ [1,2] with increment of 0.1.
+- Compare results for Reynolds number of 1000 and above.
+- Plot streamlines within the cavity
+
+
+
 
