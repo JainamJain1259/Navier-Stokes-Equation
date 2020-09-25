@@ -1,7 +1,10 @@
 # Navier-Stokes-Equation
-- Discretized Navier Stokes Equation and solved Flow inside a lid driven cavity using Finite Volume Method.
+## Discretized Navier Stokes Equation and solved Flow inside a lid driven cavity using Finite Volume Method.
 
-- Question of the codes is in the folder Question_Assignment_05.
+
+- Questions for the Assignment are in Questions Assignment 05 Folder.
+
+- Python Codes for the questions are in Assinment Codes folder
 
 
 
