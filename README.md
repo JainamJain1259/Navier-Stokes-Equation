@@ -4,7 +4,7 @@
 
 - Questions for the Assignment are in Questions Assignment 05 Folder.
 
-- Python Codes for the questions are in Assinment Codes folder
+- Python Codes for the questions are in Assginment Codes folder
 
 
 
