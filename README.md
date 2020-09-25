@@ -2,8 +2,9 @@
 
 This is a part of assignments for the course "Computational Heat & Fluid Flow (ME 605)" taught at IIT Goa during the winter semester of 2020
 
-Author: Jainam Jain, IIT Goa
-email: jainam.jain.18003@iitgoa.ac.in
+- Author: Jainam Jain, IIT Goa
+
+- email: jainam.jain.18003@iitgoa.ac.in
 ## Discretized Navier Stokes Equation and solved Flow inside a lid driven cavity using Finite Volume Method.
 
 
