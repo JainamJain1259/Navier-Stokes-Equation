@@ -1,4 +1,4 @@
-# Navier-Stokes-Equation
+# Navier Stokes Equation
 
 This is a part of assignments for the course "Computational Heat & Fluid Flow (ME 605)" taught at IIT Goa during the winter semester of 2020
 
